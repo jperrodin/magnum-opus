@@ -1,2 +1,3 @@
 # magnum-opus
-This is an app
+
+This is an app for iOS devices
